@@ -2,7 +2,7 @@
 
 Wer nicht mehr weiss wann er das letzte EMM geschrieben hat kann hier leicht nachsehen..
 
-!! Nur für die Nac Version !!
+!! Nur für die Mac Version !!
 
 EMM.zip laden und entpacken
 
