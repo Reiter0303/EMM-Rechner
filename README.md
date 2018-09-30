@@ -1,6 +1,8 @@
-# EMM-Rechner
+# EMM-Rechner (MAC)
 
 Wer nicht mehr weiss wann er das letzte EMM geschrieben hat kann hier leicht nachsehen..
+
+!! Nur für die Nac Version !!
 
 EMM.zip laden und entpacken
 
